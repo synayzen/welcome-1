@@ -1,0 +1,14 @@
+{
+    "DEFAULTS": {
+        "AUTHORS": ["595903529898737664"],
+        "ACTIVITY_TEXT": "𝐀𝐬𝐬𝐚𝐬𝐬𝐢𝐧'𝐬 𝐂𝐫𝐞𝐞𝐝  Voice System",
+        "GUILD_ID": "801066400180338702",
+        "VOICE_CHANNEL": "801730965751201802",
+        "MIN_STAFF_ROLE": "800629483865899008"
+    },
+    "FILES": {
+        "WELCOME": "default_files/welcome-voice.mp3",
+        "STAFF": "default_files/staff-voice.mp3"
+    },
+    "TOKEN": "ODAyNDg5NTA3MTkwNDA3MTY5.YAv-mA.rc90NwN68ZSopChnu7Yl4Sw17tE"
+}
